@@ -8,8 +8,8 @@
         <version>3.1.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.svalvar</groupId>
-    <artifactId>mic-users</artifactId>
+    <groupId>local.svalvar</groupId>
+    <artifactId>poc-graphql</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>mic-users</name>
     <description>Users microservices</description>
